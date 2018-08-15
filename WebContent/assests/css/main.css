@@ -1,0 +1,91 @@
+body {
+	background-color: #ffffff;
+}
+
+#container {
+	background-color: #b2b0b0;
+	padding: 20px;
+	width: 40%;
+	border-radius: 10px;
+	opacity: 30%;
+	font-family: Barlow Condensed', sans-serif;
+}
+
+#wrapper {
+	background-color: #2f3033;
+	box-shadow: 1px 1px 1px 1px #555;
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	color: #e5b010;
+	font-family: 'Vollkorn SC', serif;
+}
+h2 {
+	color: #e5b010;
+	font-family: 'Vollkorn SC', serif;
+}
+p#movieInfo {
+	font-size: 20px;
+	color: #ffffff;
+	font-family: 'Barlow Condensed', sans-serif;
+	line-height: 22px;
+	text-align: justify;
+}
+p {
+	color: #ffffff;
+	font-family: 'Barlow Condensed', sans-serif;
+	line-height: 22px;
+	text-align: justify;
+	font-size: 16px;
+}
+
+a {
+	text-decoration: none;
+	color: #e5b010;
+}
+
+a:hover {
+	color: white;
+}
+
+.nav {
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+.nav a {
+	
+	font-weight: bold;
+	float: left;
+    display: block;
+    text-decoration: none;
+    font-size: 17px;
+	text-align: center;
+	padding: 5px;
+}
+
+ul, li {
+	color: #ffffff;
+	line-height: 25px;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+
+label {
+	color: #fff;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+
+input[type=submit] {
+	font-family: 'Barlow Condensed', sans-serif;
+	width: 75px;
+	height:25px;
+}
+
+.footer {
+	text-align: center;
+	color: #fff;
+}
